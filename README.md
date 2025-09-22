@@ -1,6 +1,6 @@
 # **Tic Tac Toe Game (Python)**
 
-A simple, interactive **Tic Tac Toe** game developed using **Python** for two players. This text-based game allows players to compete against each other in a **console/command-line interface**. Players take turns marking spaces on a 3x3 grid and aim to get three of their marks in a row (horizontally, vertically, or diagonally) to win.
+*A simple, interactive **Tic Tac Toe** game developed using **Python** for two players. This text-based game allows players to compete against each other in a **console/command-line interface**. Players take turns marking spaces on a **3x3** grid and aim to get three of their marks in a row (horizontally, vertically, or diagonally) to win*.
 
 ---
 
