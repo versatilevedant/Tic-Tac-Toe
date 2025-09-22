@@ -19,9 +19,8 @@
 2. Run the `tictactoe.py` file in your terminal.
 3. Players will be prompted to choose their marker (either 'X' or 'O').
 4. Players will take turns to select a position (1-9) on the board to place their marker.
-5. <img width="777" height="786" alt="Screenshot 2025-09-22 214045" src="https://github.com/user-attachments/assets/12ace88e-1ad0-4242-8206-945706987f3e" />
-6. The game will check after every move to see if there's a winner or if the game is a draw.
-7. Once the game ends, players can choose to replay or quit.
+5. The game will check after every move to see if there's a winner or if the game is a draw.
+6. Once the game ends, players can choose to replay or quit.
 
 ---
 
@@ -31,6 +30,15 @@
 3. **Win Check**: After each move, the game checks if the current player has won (three in a row horizontally, vertically, or diagonally).
 4. **End of Game**: The game ends when a player wins or the board is full (in which case it's a draw).
 5. **Replay**: After the game ends, players are prompted to replay or quit.
+
+---
+
+### **Demonstration:**
+
+Here is a Demonstartion showing the game in action:
+
+<img width="443" height="428" alt="Screenshot 2025-09-22 222233" src="https://github.com/user-attachments/assets/cd4afd11-addf-4eaa-b23a-c8b581160ad0" />
+<img width="456" height="321" alt="Screenshot 2025-09-22 222325" src="https://github.com/user-attachments/assets/f972c681-9277-48fc-bac3-07254aa4332e" />
 
 ---
 
